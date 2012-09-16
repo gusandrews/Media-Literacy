@@ -2,11 +2,17 @@
 
 ## Room LT 209
 
+**COM 155L111 Monday and Thursday 9:30 am-10:45 am
 
+COM 155L112 Monday and Thursday 12:30 pm-1:45 pm  **
 
 ## Dr. Gillian Andrews
 
+**Office: LT 226
 
+Office hours: Tuesdays noon-3:00,
+
+Online office hours: Wednesdays 2:30-5:30. Online location to be announced.**
 
 ## Key words:
 
@@ -115,28 +121,27 @@ evaluate their progress.
 
 Due Thursday, August 30: [Media panics (1 page)][2] (no grade)
 
+Due Thursday, September 13: Media literacy exercise (2%)
+
 Due Thursday, September 20: [Gee definitions exercise (digital worksheet on
-forums)][3] (7%)
+forums)][3] (5%)
 
-Due Monday/Tuesday, October 1-2: [Group scholarly article critique (about 5
-pages, on forums)][4] (10%, counts as midterm)
+Due Monday, October 1: [Fan production worksheet ][4] (3%)
 
-Due Thursday, October 11: [Fan production (1 page)][5] (3%)
+Due Thursday, October 11: [New vs old media assignment (5 page paper or 7 page
+script)][5] (12%)
 
-Due Monday, October 22: [New vs old media assignment (5 page paper or 7 page
-script)][6] (10%)
+Due Monday, November 5: [News, Ads, Representation, Ownership, and Regulation
+(5 page paper or 7 page script)][6] (12%)
 
-Due Thursday, November 1: [Shirky and Fallows (3 pages)][7] (6%)
+Due Wednesday, November 21: [Screencast][7] (14%)
 
-Due Monday, November 19: [Screencast][8] (15%)
+Due Monday, December 3: Revision to a script, and storyboard (5%)
 
-Due December 10: Videos, scripts, and storyboards (25%)
-
-Due December 13: Revision to one earlier assignment (not the one-page
-assignments) (9%)
+Due December 10-13: Video draft. FINAL DRAFT due December 16. (20%)
 
 **Participation in class and on the class website will account for the
-remaining 15% of your grade.**
+remaining 27% of your grade.**
 
 ## GRADING
 
@@ -249,7 +254,7 @@ versus Charlie Brooker's Newswipe (about 5 min total)
 
 READ 2 of these 3 selections, your choice
 
-[Comics Code History: The Seal of Approval][9] (5 pp)
+[Comics Code History: The Seal of Approval][8] (5 pp)
 
 Medieval and Greek writing: Clanchy p 294-300 (6 pp)
 
@@ -257,7 +262,7 @@ Children and Television: Lessons From Sesame Street: Lesser: 177-181
 
 AND READ
 
-[Is Google Making Us Stupid?][10] (8 pp)
+[Is Google Making Us Stupid?][9] (8 pp)
 
 
 
@@ -276,7 +281,7 @@ articles with your groups. How might we evaluate these claims?
 
 READ:**
 
-[TV Violence and the Art of Asking the Wrong Question][11] (5 pp)
+[TV Violence and the Art of Asking the Wrong Question][10] (5 pp)
 
 
 **
@@ -349,20 +354,22 @@ answers in to me via iLearn.
 
 Session 6, Monday, September 17:
 
-**Theories of the Media: Semiotics**
+**Theories of the Media: Semiotics and literacy**
 
 READ:
 
 Gee, What Video Games Have To Teach Us About Learning And Literacy, pp 1-4,
 13-21, 24-36
 
-Come to class with questions about the reading. What didn't you understand?
+Post a question about the reading to the forum by 8 am Monday. What didn't you
+understand? We'll discuss in class to help prepare you for the exercise due
+Thursday.
 
 Session 7, Thursday, September 20
 
-**Theories of the Media: Semiotics**
+**Theories of the Media: Semiotics and literacy**
 
-In class: Meet The Media Show
+In class: Meet The Media Show?
 
 DUE:
 
@@ -372,94 +379,20 @@ Session 8, Monday, September 24:
 
 **Theories of the Media: Uses/Gratifications**
 
-In class: Make groups for next project
+Preparation for next sessions: What do we mean by "representation"?
 
 READ:
 
 Prandstraller_ _(24 pp)
 
-Come to class prepared to talk about Gee and Prandstraller. Before reading
-these pieces, what did the word "fans" mean to you? What did these two authors
-say about fan communities that were new to you?
-
-WRITE (1 page):
-
-[Fan production assignment ][5]
-
-Session 9, Thursday, September 27:
-
-**Theories of the Media: Effects model**
-
-Watch in class: The Media Show, Spice Must Flow
-
-READ:
-
-Group 1: read Kalin 1997 Television, Violence, and Children (pp 1-9)
-
-Group 2: read Children and the perceived reality of television (pp 86-96)
-
-Group 3: read A Process-PFL Approach to Learning in Video Games (10 pp)
-
-There will be many terms in this reading which you will not have heard of
-before, like
-
-In class:
-
-Begin working on [scholarly article critique][4] with a group discussion.
-
-Session 10, Monday, October 1:
-
-**Theories of the Media: Critiquing the effects model**
-
-READ:
-
-Ten things wrong with media effects (9 pp)
-
-Come to class with questions about the reading. What didn't you understand? If
-it seemed relatively clear to you, what stuck out to you as interesting in
-this reading?
-
 WRITE:
 
-Have a draft of your group's scholarly article critique with you in class so
-we can keep working on it.
+Come to class prepared to talk about Gee and Prandstraller. Post the following
+response to the forum by 10 pm Sunday BEFORE CLASS.: Before reading these
+pieces, what did the word "fans" mean to you? What did these two authors say
+about fan communities that were new to you?
 
-**Post the final version of your group's critique to the forums by 10 pm,
-Tuesday, October 2.**
-
-This project counts as your midterm (I'm scheduling it a little early so you
-don't have all your midterms the same week.)
-
-Session 11, Thursday, October 4:
-
-**Theories of the Media: Mass media theory**
-
-Many of the critiques of the effects of media come from the era of _mass
-media_ -- when there was less broadcast media and film content available,
-there were fewer channels, and any given media property was much more likely
-to reach a sizeable percentage of the population. How did this landscape
-effect what got made -- and how people thought about the effects of media?
-
-**McQuail (6th edition) on mass models, p 52-63**
-
-Come to class with questions about the reading. What didn't you understand? If
-it seemed relatively clear to you, what stuck out to you as interesting in
-this reading?
-
-Session 12, Monday, October 8:
-
-**From Mass Media to Participatory Media**
-
-Digital media have radically changed the shape of fame and audience attention.
-
-READ:
-
-Shirky, pp 81-108
-
-Come to class with one assumption about media that mass media theory makes
-which Shirky says is changed by new digital media.
-
-Session 13, Thursday, October 11:
+Session 9, Thursday, September 27:
 
 **Making The Media: Representation**
 
@@ -479,9 +412,11 @@ READ:
 Pozner, In These Times, on wealth representation, branding, and reality TV (2
 pp)
 
+**Murketing**
+
 WATCH:
 
-Screenwipe, reality TV editing (video)
+Screenwipe, reality TV editing
 
 A Hard Day's Work Law and Order supercut
 
@@ -489,25 +424,21 @@ The Media Show, Stock Photos
 
 The Media Show, TV Tropes
 
-The Media Show, Red Shirt Revue
-
-Session 14, Monday, October 15:
+Session 10, Monday, October 1:
 
 **Making The Media: Audiences and Representation**
 
-And, of course, new media have also transformed the meanings and contexts of
-representations. The Cluetrain Manifesto was produced by a couple of guys in
-advertising around the year 2000, just as people were realizing how the
-Internet might change the relationship between consumer audiences and
-advertisers.
+New media have also transformed the meanings and contexts of representations.
+The Cluetrain Manifesto was produced by a couple of guys in advertising around
+the year 2000, just as people were realizing how the Internet might change the
+relationship between consumer audiences and advertisers. What else is
+different in how people can interact with the media now?
 
 READ:
 
 Shirky, pp 122-130
 
 Cluetrain Manifesto (7 pp)
-
-Murketing
 
 WATCH:
 
@@ -519,8 +450,61 @@ Superhero gender-bending
 
 Disability art
 
+WRITE:
 
-Session 15, Thursday, October 18:
+[Fan production worksheet ][4](due to me via iLearn by BEFORE CLASS, Sunday at
+10 pm)
+
+Session 11, Thursday, October 4:
+
+**Theories of the Media: Mass media theory**
+
+Many of the critiques of the effects of media come from the era of _mass
+media_ -- when there was less broadcast media and film content available,
+there were fewer channels, and any given media property was much more likely
+to reach a sizeable percentage of the population. How did this landscape
+effect what got made -- and how people thought about the effects of media?
+
+**McQuail (6th edition) on mass models, p 52-63** (there's one copy of this
+book in the library, I will try to put it on reserve, but I will also try to
+get you a PDF instead)
+
+WRITE:
+
+Post a question about the reading to the forum by 10 pm Wednesday BEFORE
+CLASS. What didn't you understand? If it seemed relatively clear to you, what
+stuck out to you as interesting in this reading?
+
+Session 12, Monday, October 8:
+
+**From Mass Media to Participatory Media**
+
+Digital media have radically changed the shape of fame and audience attention.
+
+READ:
+
+Shirky, pp 81-108
+
+WRITE:
+
+By 10 pm Sunday BEFORE CLASS, post to the forum one thing mass media theorists
+assumed about media. What does Shirky say the transition to digital media has
+changed about this assumption?
+
+Session 13, Thursday, October 11:
+
+**Making The Media: Participatory Media and Audiences**
+
+Watch in class:
+
+15 Million Merits
+
+DUE:
+
+[New vs old media assignment][5] (due to me via iLearn by 9 AM if you are in
+the 9:30 class, by noon if you are in the 12:30 class)
+
+Session 14, Monday, October 15:
 
 **Making The Media: Commercial constraints
 
@@ -534,19 +518,91 @@ audiences, and ultimately shapes the media we see.
 
 READ:
 
-McChesney, Age of Hyper-Commercialism p 138-168
+McChesney, Age of Hyper-Commercialism p 138-153
 
-WATCH:
+WRITE:
 
-15 Million Merits
+Post a question about the reading to the forum by 10 pm Sunday BEFORE CLASS.
+What didn't you understand? If it seemed relatively clear to you, what stuck
+out to you as interesting in this reading?
+
+Session 15, Thursday, October 18:
+
+**Making The Media: Commercial constraints**
+
+READ:
+
+McChesney, Age of Hyper-Commercialism p 153-168
+
+WRITE:
+
+Post a question about the reading to the forum by 10 pm Wednesday BEFORE
+CLASS. What didn't you understand? If it seemed relatively clear to you, what
+stuck out to you as interesting in this reading?
 
 Session 16, Monday, October 22:
 
 **Making The Media: Ownership and Regulation
 
 **Advertising shapes media by being a funding source, but other forces shape
-what we see as well. We'll start discussing the impact of ownership, and the
-impact of government regulation on the content that media-makers give us.
+what we see as well. We'll start discussing the impact of ownership and
+government regulation on the content that media-makers give us.
+
+READ:
+
+McChesney, Advertising and Policy p 168-174, Market Uber Alles p 175-189
+
+WRITE:
+
+Post a question about the reading to the forum by 10 pm Sunday BEFORE CLASS.
+What didn't you understand? If it seemed relatively clear to you, what stuck
+out to you as interesting in this reading?
+
+Session 17, Thursday, October 25:
+
+**Making The Media: Ownership and Regulation**
+
+WATCH:
+
+Media Show: Cootie Catcher (Synergy)
+
+READ:
+
+McChesney, The Market Uber Alles p 189-209
+
+WRITE:
+
+Post to the forum by 10 pm Wednesday BEFORE CLASS. What surprised you or was
+new to you about this reading?
+
+Session 18, Monday, October 29:
+
+**Making The Media: Breaking The News
+
+**We trust news outlets to pick the stories that are important to our lives
+and report on them accurately. But as with all the other media we have
+studied, the news is constructed -- it's not just an unaltered reflection of
+reality. We'll discuss some of the ways that the news is impacted by the shape
+of the genre, the channels through which we receive it, and decisions made by
+editors and reporters.
+
+Watch in class: Brooker, Newswipe, [How To Report The News][11]
+
+READ:
+
+Fallows: 129-143; 165-181
+
+WRITE:
+
+Post to the forum by 10 pm Sunday BEFORE CLASS. What surprised you or was new
+to you about this reading?
+
+Session 19, Thursday, November 1:
+
+**Making The Media: Breaking The News
+
+**Of course, a lot has changed since Fallows was writing in the mid-nineties.
+Shirky describes some of the changes to journalism wrought by digital media.
 
 Watch** "From Indymedia to Demand Media: Participation, Surveillance, and the
 Transformation of Journalism,"** a talk by Professor Chris Anderson at the
@@ -554,168 +610,173 @@ Next HOPE Conference.
 
 READ:
 
-McChesney, Advertising and Policy p 168-174, Market Uber Alles p 175-189
-
-DUE:
-
-[New vs old media assignment][6]
-
-Session 17, Thursday, October 25:
-
-**Making The Media: Ownership and Regulation**
-
-READ:
-
-McChesney, The Market Uber Alles p 189-209
-
-
-WATCH:
-
-Media Show: Cootie Catcher (Synergy)
-
-Session 18, Monday, October 29:
-
-**Making The Media: Breaking The News**
-
-
-Watch in class: Brooker, Newswipe, [How To Report The News][12]
-
-READ:
-
-Fallows: 129-143; 159-181
-
-Session 19, Thursday, November 1:
-
-**Making The Media: Breaking The News**
-
-READ:
-
 Shirky, pp 55-80
 
-WRITE: (3 pp)
+WRITE:
 
-Shirky and Fallows
+Read the News, Ads, Representation, Ownership, and Regulation assignment that
+will be due Monday. Send the topic which you think you will write about to me
+via iLearn by 10 pm Wednesday BEFORE CLASS. We can talk about this so you can
+be sure you have a solid topic idea.
 
 Session 20, Monday, November 5:
 
-**Aspects of Digital Media: Identification and Trust**
-
-
-Tutorial: Using WhoIs
-
-READ:
-
-Hargittai, Links of Influence (16 pp)
-
-Session 21, Thursday, November 8:
-
-**Aspects of Digital Media: Identification and Trust**
-
-READ:
-
-Lessig, Architectures of Credentials, 38-54
-
-boyd, [real names policies are an abuse of power][13]
-
-[Falsehoods programmers believe about names][14]
-
-Session 22, Monday, November 12:
-
-**Aspects of Digital Media: Privacy**
-
-
-We'll be watching "Privacy is Dead," a talk given by private investigator
-Steven Rambam at the Hackers On Planet Earth (HOPE) Conference.
-
-
-READ:
-
-boyd et al, 22 pp
-
-Session 23, Thursday, November 15
-
 **Aspects of Digital Media: Robots**
-
 
 While computers seem to get "smarter" every year, able to predict what we want
 before we even know we want it, beneath the surface layer of interaction they
-may still require us to think they way they do to communicate. The next few
-classes explore some of the ways in which computers "read" and "think"
-differently from people, with limitations and demands which are helpful when
-we're trying to figure out how to "read" digital media.
+still think like robots. To understand why they do what they do, we may still
+need to think like robots to communicate well with them and get them to do
+what we want. The next few classes explore some of the ways in which computers
+"read" and "think" differently from people, with limitations and demands which
+are helpful when we're trying to figure out how to "read" digital media.
+
+We may be able to chat with Finn Brunton, the author of this reading, via
+Skype in class.
 
 READ:
 
 **Brunton, ch 2 section 4 on Robot Readability (about 20 pp) **
 
-Session 24, Monday, November 19:
+DUE:
+
+[News, Ads, Representation, Ownership, and Regulation paper/script][6]
+
+Session 21, Thursday, November 8:
+
+**Aspects of Digital Media: Identification, Verifiability, and Trust
+
+**We talked about Wikipedia a little bit earlier in this class, waaay back
+when we were trying to figure out whether we found the sources of the "media
+panics" articles to be reliable. Today we're going to look into how volunteer
+Wikipedia writers are asked to back up their truth claims as factual. We're
+also going to think about how names online shape our trust of what we read.
+
+Tutorial in class: How to make a screencast
+
+READ:
+
+boyd, [real names policies are an abuse of power
+
+][12]Wikipedia policies:
+
+[http://en.wikipedia.org/wiki/Wikipedia:Verifiability][13]
+
+[http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources][14]
+
+[http://en.wikipedia.org/wiki/Wikipedia:No_original_research][15]
+
+[http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view][16]
+
+Session 22, Monday, November 12:
 
 **Aspects of Digital Media: Is Code Law?**
 
-READ: Lessig, Code Is Law and 4 Puzzles from Cyberspace (28 pp total in new
-edition)
+Tutorial: Using WhoIs
 
-DUE:
+READ: Lessig, Architectures of Credentials, 38-54
 
-[Screencast][8].
+Post a question about the reading to the forum by 10 pm Sunday BEFORE CLASS.
+What didn't you understand?
 
-THANKSGIVING BREAK, THURSDAY NOVEMBER 22 - NO CLASS
+Session 23, Thursday, November 15
+
+**Aspects of Digital Media: Privacy**
+
+Troubleshooting on screencasts
+
+READ:
+
+boyd et al, 22 pp
+
+Post to the forum by 10 pm Sunday BEFORE CLASS. What surprised you or stuck
+out as interesting about this article?
+
+Session 24, Monday, November 19:
+
+
+**Aspects of Digital Media: Privacy **
+
+We'll be watching "Privacy is Dead," a talk given by private investigator
+Steven Rambam at the Hackers On Planet Earth (HOPE) Conference.
+
+Work on your screencast project.
+
+[][7] DUE WEDNESDAY, NOVEMBER 21 AT NOON ON ILEARN: [SCREENCAST][7] project.
+
+ALSO: Post the script you are going to use for your [final project][17] to the
+forums at the same time.
+
+THANKSGIVING BREAK, THURSDAY NOVEMBER 22 - NO CLASS - but see assignment due
+the Monday we come back!
 
 Session 25, Monday, November 26:
 
-**Aspects of Digital Media: New Digital Divides**
+**Work on scripts and storyboards for [final project.][17]**
 
-READ:
+Discuss in class what's expected of scripts and storyboards.
 
-boyd, "White Flight in Networked Publics? How Race and Class Shaped American
-Teen Engagement with MySpace and Facebook." 36 pp
+WRITE:
 
+Comment on the scripts that THREE of your classmates have posted to the iLearn
+forum, giving them constructive criticism for their final project. Things you
+might talk about:
+
+Is it clear from the script what we are going to see on screen? What else
+could they do to communicate their ideas visually instead of using words?
+
+Do the ideas from class they are talking about come through clearly in the
+dialog?
+
+Where does the dialog sound more natural or less natural to you (i.e. would
+you hear real people saying this)?
+
+**For Tuesday November 27 and Wednesday November 28: Contact Dr. Andrews by
+email to set up a meeting during her office hours to discuss your final
+project. Do NOT leave it to the last minute to set this up.**
 
 Session 26, Thursday, November 29
 
-**Copyright and Fair Use**
+**Workshop storyboards and scripts in class
 
+**
 
-The Media Show: What's Fair Use?
+DUE:
 
+Post your revised script to iLearn by Wednesday at 10 pm, BEFORE CLASS.
 
 Session 27, Monday, December 3
 
-**Identification and Trust**
+**Copyright and Fair Use
 
-By now I hope you agree that it is important to understand what goes into
-making a media text, in order to evaluate the quality of its contents. How far
-can this go? Most of us know we should evaluate the quality of information on
-Wikipedia, but why? How often can we investigate the sources of what we read?
-Do we always have to evaluate the quality of news reporting? Of textbooks? How
-often? How do digital sources change what we need to know?
+**Watch The Media Show: What's Fair Use?
 
-READ:
+**In-class video production training with the AV department.**
 
-Feynman, pp 288-302
+WRITE:
 
-* http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+Post final script and storyboard to iLearn forum by 10 pm Sunday BEFORE CLASS.
 
-* http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
-
-* http://en.wikipedia.org/wiki/Wikipedia:No_original_research
-
-* http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view
+Schedule time to see Dr. Andrews during office hours December 4 and 5 if you
+feel you need additional video production help.
 
 Session 28, Thursday, December 6:
 
-**Workshop storyboards and scripts in class**
+**Work on producing videos in and out of class.**
 
 
 Session 29, Monday, December 10:
 
-**Final Project Presentations; Final Project Due**
+**Final Project Presentations; Project Draft Due**
 
 
 Session 30, Thursday, December 13:
 
-**Final Project Presentations; Revisions Due**
+**Final Project Presentations; Project Draft Due**
 
+
+**[Final draft of final project due][17], posted to iLearn by midnight, Sunday
+December 16th**
 
 
 * * *
@@ -731,16 +792,17 @@ alphabet, comic books, Google, and Sesame Street? What do you think people's
 concerns about these media products were "symptoms" of?
 
 
-### Gee definitions exercise (digital worksheet on wiki, due Monday, September
-10)
+### Gee definitions exercise (digital worksheet on forum, due Thursday,
+September 20)
 
 **This assignment will probably be easier if you provide examples of something
 in the media that YOU are a fan of. But if you're uncomfortable sharing, you
 can describe someone else and the media they are a fan of.**
 
-**Copy and paste these questions on your own wiki page. Write your answers
-between the questions, _as full sentences,_ formatting the questions
-differently and using line spacing to be sure everything is readable.**
+**Copy and paste these questions on the forum. Write your answers between the
+questions, _as full sentences,_ formatting the questions differently (bold,
+italic, different color, whatever) and using line spacing to be sure
+everything is readable.**
 
 Give me a tour of a SEMIOTIC DOMAIN and an IDENTITY related to a movie, band,
 show, broadcast event, book, comic, website, game, or other media "text." Use
@@ -787,69 +849,7 @@ How is the SITUATED MEANING of this social practice seen differently by people
 who do and do not participate in this domain?
 
 
-###
-
-Group scholarly article critique (about 5 pages; draft due Monday, October 1,
-final paper due 10 pm on Tuesday, October 2)
-
-This project counts as your midterm (I'm scheduling it a little early so you
-don't have all your midterms the same week.)
-
-**Group 1: **read Kalin 1997 Television, Violence, and Children (pp 1-9 and
-bibliography)
-
-**Group 2: **read Children and the perceived reality of television (pp 86-96)
-
-**Group 3: **read A Process-PFL Approach to Learning in Video Games (10 pp)
-
-**All groups:** read Ten things wrong with media effects (9 pp)
-
-Monday the 24th: we will set groups in class. You may want to communicate with
-your group members while doing the reading before the next class.
-
-Thursday the 27th (in class): **With your group, develop a paper critiquing
-the article you read, addressing these questions:**
-
-  * These articles make scientific claims, using statistics and evidence from
-experiments. Based on our earlier discussion about truth claims, how valid do
-you think the claims are?
-
-    * In addition to drawing on the theories we have read so far,** each
-member of your group should identify one decision made by the researchers as
-they designed their study** which could compromise their scientific results.
-Some options might be the number of people studied, the ways they gathered
-their data, or the way they framed their research question, but other
-decisions are also fair game. What you're looking for may be in the "methods,"
-"methodology," or "procedure" sections, or parts where the author is asking
-questions. Be specific. Make a case for why you think the decision undermines
-what the researchers are claiming.
-
-  * Think about the theories we have talked about to date -- Gerbner's
-cultivation theory; Gee and Saussure's semiotic approach to understanding how
-people "read" media to be part of a community; Prandstraller and her examples
-of uses and gratifications; effects theorists like Wertham and others who said
-media increase violence (and Gauntlett's critique of media effects research);
-technological determinists like McLuhan and the author writing about Google.
-Viewing your article through the lens of these theories, what would these
-theorists have said about the questions posed by your researchers, or about
-the assumptions they make? **Each member of your group should contribute a
-short paragraph about what one theorist would have said about your article's
-questions and assumptions.**
-
-Between classes, continue to write your group's critique.
-
-These may be scientific articles, but don't take anything they say at face
-value. Take their arguments to pieces and make a case for whether or not you
-think their argument works.
-
-This should be written as an academic paper -- so I shouldn't see "I" or "we."
-No first-person, no "this is my opinion" no "I think..." Make your argument
-based on the evidence.
-
-
-###
-
-Fan production (1 page, due )
+### Fan production worksheet (due Monday, October 1)
 
 Online, find an example of fans who have created their own content -- writing,
 art, video, etc -- based on a mass media property.
@@ -887,8 +887,8 @@ why not?
 
 ###
 
-New vs old media assignment (5 page paper or 7 page script, due Monday,
-October 22)
+New vs old media assignment (5 page paper or 7 page script, due Thursday,
+October 11)
 
 So now we've talked about how digital media differ from traditional
 conceptions of "mass" media. As Shirky points out, many of our societal
@@ -901,22 +901,26 @@ and McQuail to support your arguments.
 
 Pick one of these topics:
 
-  1. Ideas about what mass media do shape the critiques of representation of
-race, class, gender, ability, and other social groups ("affinity groups"?)
-that have been made for many years. In what ways have media environments and
-audiences changed that requires a change in critiques of representation? In
-what ways have things stayed the same? (Please address both questions.)
+  1. Ideas about how mass media shape the critiques of representation of race,
+class, gender, ability, and other social groups ("affinity groups"?). In what
+ways have media environments and audiences changed that requires a change in
+how we think about who is represented and how in the media? In what ways have
+things stayed the same? (Please address both questions.)
 
   2. Think back to the "media effects" research and critiques we read
 earlier-- the studies of children and television, and the Gerbner and
 Gauntlett articles. In a digitally-mediated society, what has changed that
 supports or detracts from these assumptions about how media influence people?
+You will want to work off of what Shirky says.
 
   3. Mass media and digital media exist side by side these days. Both Shirky
-and McQuail present claims about the effects of the shape of new and old
-media; so did McLuhan and Innis. How are technological determinist claims made
-by Shirky, McQuail, McLuhan, and Innis supported by or undermined by the
-interactions of new and old media?
+and McQuail present claims about the effects of the "shape" of new and old
+media (the "pipe" or the "channel" through which they get to us, NOT the
+content. Think back to how the "Is Google Making Us Stupid" article and the
+mentions of McLuhan's "the medium is the message" in Introducing Media
+Studies). How are "technological determinist" claims made by Shirky, McQuail,
+the Google piece, and McLuhan supported by or undermined by the ways new and
+old media interact?
 
 You have three options for writing this:
 
@@ -928,37 +932,42 @@ pages.
 
   * Option 3: write it as a script for your own five-minute video; 7 pages.
 
+  * We are not producing these videos yet! Just work on the script.
+
+  * You WILL need to have one script for the end of the semester project, so
+consider whether you might like to use this one or the next one.
+
 **IF YOU ARE WRITING A SCRIPT**: Be sure to specify how you will use visual
 elements to demonstrate the points you are making. Video is a visual medium;
 there's no point in using it if you're just going to have someone lecturing to
 the camera! (Yeah, I know. I am bad at following this advice myself.) See the
 example script if you need some guidance on how to include visuals.
 
-Recommended scriptwriting software: [Celtx][15] (it's free!)
+Recommended scriptwriting software: [Celtx][18] (it's free!)
 
-###
 
-Shirky and Fallows (3 page paper or 5 page script, due Thursday, November 1)
+### News, Ads, Representation, Ownership, and Regulation assignment (5 page
+paper or 7 page script, due Monday, November 5)
 
-Shirky writes, "in some cases the [technological] change that threatens the
-profession benefits society... even in these situations the professionals can
-be relied upon to care more about self-defense than about progress. What was
-once a service has become a bottleneck."
+Pick a term or concept from the readings we have recently done on news, ads,
+representation, ownership, or regulation. Write a script to explain it to
+other students. One way you could do this would be as an argument about the
+topic between two people (like the puppets on The Media Show).
 
-Describe three "bottlenecks" that Fallows described in the 1990s which Shirky
-says have been addressed by the rise of digital media and their affordances.
-In your conclusion, discuss whether you think Shirky is correct in concluding
-that digital reporting has changed these problems.
 
 You have three options for writing this:
 
-  * Option 1: write it as a traditional paper; 3 pages.
+  * Option 1: write it as a traditional paper; 5 pages. (UNLESS you did your
+last assignment as a paper -- you need to have one script for the end of the
+semester project.)
 
   * Option 2: write it as a script for a five-minute episode of The Media
-Show, using Weena, Erna, the Intern, and other characters as you see fit; 5
+Show, using Weena, Erna, the Intern, and other characters as you see fit; 7
 pages.
 
-  * Option 3: write it as a script for your own five-minute video; 5 pages.
+  * Option 3: write it as a script for your own five-minute video; 7 pages.
+
+  * We are not producing these videos yet! Just work on the script.
 
 **IF YOU ARE WRITING A SCRIPT**: Be sure to specify how you will use visual
 elements to demonstrate the points you are making. Video is a visual medium;
@@ -966,14 +975,14 @@ there's no point in using it if you're just going to have someone lecturing to
 the camera! (Yeah, I know. I am bad at following this advice myself.) See the
 example script if you need some guidance on how to include visuals.
 
-Recommended scriptwriting software: [Celtx][15] (it's free!)
+Recommended scriptwriting software: [Celtx][18] (it's free!)
 
 ###
 
 Screencast (due Monday, November 19)
 
-Using software like [Jing][16], [Camtasia][17], [Fraps][18], [HyperCam][19],
-or [iShowU][20], do a walkthrough of a site that you use regularly.
+Using software like [Jing][19], [Camtasia][20], [Fraps][21], [HyperCam][22],
+or [iShowU][23], do a walkthrough of a site that you use regularly.
 
 Navigate through and show the following elements of the website, and evaluate
 the following in your voiceover:
@@ -1001,18 +1010,13 @@ information to sign up?
 
 ###
 
-Videos, scripts, and storyboards (due December 10)
+Videos, scripts, and storyboards (see due dates on grid above)
 
-What idea that you learned in this class is, in your opinion, the most
-important for others to know about the media and how we think about them? How
-would you communicate it to someone else? The final project will be producing
-a three-minute video communicating an idea from the class to other students.
-You will work in teams of two to produce the videos. One option is to revise
-and produce one of the scripts you wrote earlier in the class; or, you can
-develop a new script for this project. I will meet with each team to
-"greenlight" and help you plan your ideas, helping make sure they'll satisfy
-the course requirement and that you're not trying to make something too big
-for a final project.
+The final project will be producing a 3-5 minute video communicating an idea
+from the class to other students. You will revise a script you wrote for an
+earlier assignment for this project. I will meet with each of you to help you
+plan your ideas, helping make sure they'll satisfy the course requirement and
+that you're not trying to do something too big for a final project.
 
 As I said earlier: Be sure to specify in your script how you will use visual
 elements to demonstrate the points you are making. Video is a visual medium;
@@ -1027,14 +1031,6 @@ chance to improve your videos before the final presentation.
 
 ###
 
-Revision to one earlier assignment (due December 13)
-
-Revising is an important part of writing (or editing video, or producing ads
-or websites or just about any other media) in professional settings. Pick an
-assignment from this course (not one of the one-page assignments) that you
-would like to do better on. Consult with me about what might need improvement.
-Then turn in your revisions by the last day of class.
-
 
 ## If you liked this,
 
@@ -1042,13 +1038,13 @@ Then turn in your revisions by the last day of class.
 
 Here Comes Everybody
 
-Goldhaber, [The Attention Economy and the Net][21]
+Goldhaber, [The Attention Economy and the Net][24]
 
 Breaking The News
 
-Marche, [The Real Problem with Niall Ferguson's Letter to the 1%][22]
+Marche, [The Real Problem with Niall Ferguson's Letter to the 1%][25]
 
-Bogost, [Speaking of Fees... The facile scourge of paid speaking][23]
+Bogost, [Speaking of Fees... The facile scourge of paid speaking][26]
 
  
 
